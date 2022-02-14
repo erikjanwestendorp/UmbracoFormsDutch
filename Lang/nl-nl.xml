@@ -74,19 +74,19 @@
         </p>
       ]]>
 		</key>
-		<key alias="findLicenses">Find Licenses</key>
-		<key alias="invalidEmail">Invalid email or password</key>
-		<key alias="noLicensesAvailable">No Umbraco Forms licenses available on this account</key>
-		<key alias="availableLicensesTitle">Available Licenses</key>
-		<key alias="foundLicenses">Found</key>
+		<key alias="findLicenses">Licentie zoeken</key>
+		<key alias="invalidEmail">Ongeldig e-mailadres of wachtwoord</key>
+		<key alias="noLicensesAvailable">Geen Umbraco Forms-licenties beschikbaar voor dit account</key>
+		<key alias="availableLicensesTitle">Beschikbare licenties</key>
+		<key alias="foundLicenses">Gevonden</key>
 		<key alias="foundLicensesAccount">on the account</key>
 		<key alias="noDomainsAssigned">Has no domains assigned</key>
 		<key alias="setDomain">Please set a domain on this license</key>
-		<key alias="configureAndInstall">Configure and Install</key>
-		<key alias="installLicense">Install this license</key>
-		<key alias="validDomains">Valid domains</key>
-		<key alias="licenseValidOnDomain">This license is valid on the curent domain</key>
-		<key alias="licenseNotValidOnDomain">This license is not valid on the curent domain</key>
+		<key alias="configureAndInstall">Configureren en installeren</key>
+		<key alias="installLicense">Installeer deze licentie</key>
+		<key alias="validDomains">Geldige domeinen</key>
+		<key alias="licenseValidOnDomain">Deze licentie is geldig op het huidige domein</key>
+		<key alias="licenseNotValidOnDomain">Deze licentie is niet geldig op het huidige domein</key>
 		<key alias="plainTextPasswordWarning">
 			<![CDATA[
         <h3 class="warning">Warning: your configuration settings are set to save plain text passwords!</h3>
