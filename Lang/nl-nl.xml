@@ -569,9 +569,9 @@
 		<key alias="sendEmailAttachmentLabel">Attachments</key>
 		<key alias="sendEmailAttachmentDescription">Attach file uploads to email.</key>
 
-		<key alias="sendEmailWithTemplateRazorName">Send email with template (Razor)</key>
+		<key alias="sendEmailWithTemplateRazorName">E-mail verzenden met sjabloon (Razor)</key>
 		<key alias="sendEmailWithTemplateRazorDescription">Send the result of the form to an email address/addresses using a Razor .cshtml template.</key>
-		<key alias="sendEmailWithTemplateRazorEmailLabel">Recipient Email</key>
+		<key alias="sendEmailWithTemplateRazorEmailLabel">E-mail ontvanger</key>
 		<key alias="sendEmailWithTemplateRazorEmailDescription">Enter the recipient email address(es).</key>
 		<key alias="sendEmailWithTemplateRazorCcEmailLabel">CC Email</key>
 		<key alias="sendEmailWithTemplateRazorCcEmailDescription">Enter the CC email addresses (if required).</key>
@@ -614,7 +614,7 @@
 		<key alias="slackLegacyUsernameLabel">Username</key>
 		<key alias="slackLegacyUsernameDescription">The username or bot to post as.</key>
 		<key alias="slackLegacyAvatarUrlLabel">Avatar URL</key>
-		<key alias="slackLegacyAvatarUrlDescription">The full URL (including http/https) to the avatar image.</key>
+		<key alias="slackLegacyAvatarUrlDescription">De volledige URL (inclusief http/https) naar de avatarafbeelding.</key>
 
 		<key alias="slackName">Slack</key>
 		<key alias="slackDescription">Posts the form data to a specific channel on Slack using a webhook.</key>
@@ -627,8 +627,8 @@
 		<key alias="sQLDatabaseDescription">Connects to any OLEDB supported database table and constructs a datasource from it.</key>
 		<key alias="sQLDatabaseConnectionLabel">Connection String</key>
 		<key alias="sQLDatabaseConnectionDescription">OleDB Compatible Connection string.</key>
-		<key alias="sQLDatabaseTableLabel">Table Name</key>
-		<key alias="sQLDatabaseTableDescription">Database table name.</key>
+		<key alias="sQLDatabaseTableLabel">Tabelnaam</key>
+		<key alias="sQLDatabaseTableDescription">Naam databasetabel.</key>
 	</area>
 
 	<area alias="formProviderPrevalueSources">
@@ -640,7 +640,7 @@
 		<key alias="getValuesFromTextfileTextFileLabel">Text File</key>
 		<key alias="getValuesFromTextfileTextFileDescription">File containing the prevalues (separated by linebreaks).</key>
 
-		<key alias="umbracoDocumentsName">Umbraco Documents</key>
+		<key alias="umbracoDocumentsName">Umbraco Documenten</key>
 		<key alias="umbracoDocumentsDescription">Uses nodes from a specific source as preValues.</key>
 		<key alias="umbracoDocumentsRootNodeLabel">Root node</key>
 		<key alias="umbracoDocumentsRootNodeDescription">Source to fetch nodes from.</key>
@@ -673,8 +673,8 @@
 	</area>
 
 	<area alias="formProviderExportTypes">
-		<key alias="excelFileName">Excel File</key>
-		<key alias="excelFileDescription">Exports all data to Excel.</key>
+		<key alias="excelFileName">Excel Bestand</key>
+		<key alias="excelFileDescription">Exporteert alle gegevens naar Excel.</key>
 
 		<key alias="saveAllUploadedFilesInDiskStructureName">Save All Uploaded Files (in disk structure)</key>
 		<key alias="saveAllUploadedFilesInDiskStructureDescription">Exports all files uploading in form submissions to a zip archive, organized as the files are stored on disk.</key>
