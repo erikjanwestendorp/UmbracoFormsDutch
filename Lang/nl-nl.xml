@@ -105,7 +105,7 @@
 		<key alias="licensedDomains">Licensed domains</key>
 	</area>
 	<area alias="formCopy">
-		<key alias="title">Copying form '%0%'</key>
+		<key alias="title">Formulier kopiëren'%0%'</key>
 		<key alias="enterName">Voer een naam in voor het gekopieerde formulier</key>
 		<key alias="alsoCopyWorkflows">Ook workflows kopiëren?</key>
 		<key alias="copyToNewFolder">Kopiëren naar een nieuwe map?</key>
