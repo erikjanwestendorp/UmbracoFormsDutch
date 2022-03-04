@@ -206,7 +206,7 @@
 	<area alias="formMove">
 		<key alias="title"><![CDATA[Select the folder to move <strong>%0%</strong> to in the tree structure below.]]></key>
 		<key alias="successMessage"><![CDATA[<strong>%0%</strong> was moved underneath <strong>%1%</strong>.]]></key>
-		<key alias="successNotificationHeader">Moved</key>
+		<key alias="successNotificationHeader">Verplaatst</key>
 		<key alias="successNotificationDescriptionForForm">The form was moved to the selected location.</key>
 		<key alias="successNotificationDescriptionForFolder">The folder was moved to the selected location.</key>
 	</area>
