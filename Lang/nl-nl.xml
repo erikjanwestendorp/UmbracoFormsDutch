@@ -188,8 +188,8 @@
 		<key alias="noEntriesMatchingSearch">We couldn't find any submissions matching your search.</key>
 		<key alias="noEntriesMatchingSearchDetail">Try searching for something else, maybe you're lucky next time.</key>
 		<key alias="selectedEntryPaging">Entry %0% of %1%</key>
-		<key alias="previousEntry">Previous entry</key>
-		<key alias="nextEntry">Next entry</key>
+		<key alias="previousEntry">Vorige invoer</key>
+		<key alias="nextEntry">Volgende invoer</key>
 		<key alias="accessDeniedMessage">You do not have access to view this form's entries.</key>
 		<key alias="executeCompleteTitle">Executed action</key>
 		<key alias="executeSuccessMessage">Successfully executed action %0%</key>
