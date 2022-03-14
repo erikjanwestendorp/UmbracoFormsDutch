@@ -669,7 +669,7 @@
 		<key alias="umbracoDataTypePreValueName">Umbraco data type PreValues</key>
 		<key alias="umbracoDataTypePreValueDescription">Connects to an Umbraco data type and uses its pre-value collection.</key>
 		<key alias="umbracoDataTypePreValuesDataTypeIdLabel">Data Type</key>
-		<key alias="umbracoDataTypePreValuesDataTypeIdDescription">Data type to use.</key>
+		<key alias="umbracoDataTypePreValuesDataTypeIdDescription"Datatype dat moet worden gebruikt.</key>
 	</area>
 
 	<area alias="formProviderExportTypes">
