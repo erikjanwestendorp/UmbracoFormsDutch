@@ -684,6 +684,6 @@
 	</area>
 
 	<area alias="formRecordSetActions">
-		<key alias="deleteConfirm">Are you sure you want to delete these entries?</key>
+		<key alias="deleteConfirm">Weet u zeker dat u deze entries wilt verwijderen?</key>
 	</area>
 </language>
