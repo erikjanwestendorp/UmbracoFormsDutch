@@ -81,7 +81,7 @@
 		<key alias="foundLicenses">Gevonden</key>
 		<key alias="foundLicensesAccount">on the account</key>
 		<key alias="noDomainsAssigned">Heeft geen domeinen toegewezen</key>
-		<key alias="setDomain">Please set a domain on this license</key>
+		<key alias="setDomain">Stel een domein in voor deze licentie</key>
 		<key alias="configureAndInstall">Configureren en installeren</key>
 		<key alias="installLicense">Installeer deze licentie</key>
 		<key alias="validDomains">Geldige domeinen</key>
@@ -99,9 +99,9 @@
 		<key alias="currentVersion">Huidige geïnstalleerde versie van Umbraco Forms:</key>
 		<key alias="licenseConfiguredNotificationTitle">Licentie geconfigureerd</key>
 		<key alias="licenseConfiguredNotificationMessage">Umbraco Forms has been configured for use on this website.</key>
-		<key alias="insufficientPermissionsError">Insufficient Permissions</key>
-		<key alias="insufficientPermissionsMessage">You do not have permissions to create and manage forms.</key>
-		<key alias="insufficientPermissionsUpgradeMessage">Only Admin users have the ability to upgrade Umbraco Forms.</key>
+		<key alias="insufficientPermissionsError">Onvoldoende machtigingen</key>
+		<key alias="insufficientPermissionsMessage">Je bent niet gemachtigd om formulieren te maken en te beheren.</key>
+		<key alias="insufficientPermissionsUpgradeMessage">Alleen admins hebben de mogelijkheid om Umbraco Forms te upgraden..</key>
 		<key alias="licensedDomains">Licensed domains</key>
 	</area>
 	<area alias="formCopy">
