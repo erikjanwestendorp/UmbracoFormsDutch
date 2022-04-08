@@ -149,15 +149,15 @@
 	</area>
 	<area alias="formFileUpload">
 		<key alias="allowAllFiles">Alle bestanden toestaan</key>
-		<key alias="allowOnlySpecifiedFiles">Allow only specified files</key>
-		<key alias="predefinedAllowedFileTypes">Predefined allowed file types</key>
-		<key alias="userDefinedAllowedFileTypes">User defined allowed file types</key>
+		<key alias="allowOnlySpecifiedFiles">Alleen gespecificeerde bestanden toestaan</key>
+		<key alias="predefinedAllowedFileTypes">Vooraf gedefinieerde toegestane bestandstypen</key>
+		<key alias="userDefinedAllowedFileTypes">Door de gebruiker gedefinieerde toegestane bestandstypen</key>
 		<key alias="deleteAllowedFileTypeConfirmationTitle">Bevestiging</key>
 		<key alias="deleteAllowedFileTypeConfirmationDescription">Weet je zeker dat je dit wilt verwijderen?</key>
 		<key alias="duplicateFileTypeErrorTitle">Bestandstype fout</key>
 		<key alias="duplicateFileTypeErrorMessage">Kan bestandstype niet toevoegen omdat dit een duplicaat is.</key>
 		<key alias="pickFile">Kies bestand</key>
-		<key alias="uploading">Uploading</key>
+		<key alias="uploading">Uploaden</key>
 		<key alias="currentFile">Huidig bestand</key>
 	</area>
 	<area alias="formPrevalues">
