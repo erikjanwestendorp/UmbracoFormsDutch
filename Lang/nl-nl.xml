@@ -136,7 +136,7 @@
 		<key alias="addPage">Nieuwe pagina toevoegen</key>
 		<key alias="pageTitlePlaceholder">Naamloze pagina (optioneel)</key>
 		<key alias="groupTitlePlaceholder">Naamloze groep (optioneel)</key>
-		<key alias="saveFieldFailedTitle">Field failed to save</key>
+		<key alias="saveFieldFailedTitle">Veld kan niet worden opgeslagen</key>
 		<key alias="accessDeniedMessage">U heeft geen rechten om dit formulier te bewerken.</key>
 		<key alias="formSaved">Form saved</key>
 		<key alias="unableToLoadForm">Formulier kan niet geladen worden</key>
