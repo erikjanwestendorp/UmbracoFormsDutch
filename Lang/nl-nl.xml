@@ -64,7 +64,7 @@
 		<key alias="configureLicenseFAQs">
 			<![CDATA[
         <h4>FAQ:</h4>
-        <h5>I don't know what my credentials are?</h5>
+        <h5>Ik weet niet wat mijn inloggegevens zijn?</h5>
         <p>
           It's a combination of your e-mail and password from when you placed your order. You can always <a class="green-link" href="https://shop.umbraco.com/profile/retrieve-your-password/">reset your password here</a>.
         </p>
