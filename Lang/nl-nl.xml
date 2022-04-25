@@ -102,7 +102,7 @@
 		<key alias="insufficientPermissionsError">Onvoldoende machtigingen</key>
 		<key alias="insufficientPermissionsMessage">Je bent niet gemachtigd om formulieren te maken en te beheren.</key>
 		<key alias="insufficientPermissionsUpgradeMessage">Alleen admins hebben de mogelijkheid om Umbraco Forms te upgraden..</key>
-		<key alias="licensedDomains">Licensed domains</key>
+		<key alias="licensedDomains">Gelicentieerde domeinen</key>
 	</area>
 	<area alias="formCopy">
 		<key alias="title">Formulier kopiëren'%0%'</key>
