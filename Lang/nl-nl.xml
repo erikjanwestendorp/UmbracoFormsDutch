@@ -164,7 +164,7 @@
 		<key alias="addNewItem">Voeg hier een nieuw item toe</key>
 		<key alias="duplicateErrorTitle">Prevalue fout</key>
 		<key alias="duplicateAddErrorMessage">Unable to add value as it would create a duplicate.</key>
-		<key alias="duplicateEditErrorMessage">Unable to edit value as it would create a duplicate.</key>
+		<key alias="duplicateEditErrorMessage">Kan de waarde niet bewerken omdat hierdoor een duplicaat ontstaat.</key>
 	</area>
 	<area alias="formDelete">
 		<key alias="title">Are you sure you want to delete the %0% '%1%'?</key>
