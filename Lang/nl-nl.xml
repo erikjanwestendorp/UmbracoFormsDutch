@@ -116,8 +116,8 @@
 		<key alias="emptyForm">Leeg formulier</key>
 		<key alias="emptyFormDescription">Vanaf het begin beginnen</key>
 		<key alias="folder">Map</key>
-		<key alias="folderDescription">Used to organize forms</key>
-		<key alias="enterFolderName">Enter a folder name</key>
+		<key alias="folderDescription">Wordt gebruikt om formulieren te ordenen</key>
+		<key alias="enterFolderName">Voer een mapnaam in</key>
 	</area>
 	<area alias="formPermissions">
 		<key alias="accessDeniedTitle">Toegang geweigerd</key>
