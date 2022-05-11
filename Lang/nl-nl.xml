@@ -223,7 +223,7 @@
 		<key alias="logicTypeAll">all</key>
 		<key alias="logicTypeAny">any</key>
 		<key alias="operatorIs">is</key>
-		<key alias="operatorIsNot">is not</key>
+		<key alias="operatorIsNot">is niet</key>
 		<key alias="operatorGreaterThen">is greater than</key>
 		<key alias="operatorLessThen">is less than</key>
 		<key alias="operatorContains">contains</key>
