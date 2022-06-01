@@ -56,7 +56,7 @@
         </p>      
       ]]>
 		</key>
-		<key alias="configureLicenseTitle">Configure an Umbraco Forms license</key>
+		<key alias="configureLicenseTitle">Een Umbraco Forms-licentie configureren</key>
 		<key alias="configureLicenseCopy">
 			If you've already bought Umbraco Forms, you can automatically retrieve and configure your license here. Simply enter your umbraco.com credentials below and we'll
 			find your license.
