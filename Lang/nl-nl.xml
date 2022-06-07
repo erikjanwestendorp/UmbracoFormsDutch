@@ -98,7 +98,7 @@
 		</key>
 		<key alias="currentVersion">Huidige geïnstalleerde versie van Umbraco Forms:</key>
 		<key alias="licenseConfiguredNotificationTitle">Licentie geconfigureerd</key>
-		<key alias="licenseConfiguredNotificationMessage">Umbraco Forms has been configured for use on this website.</key>
+		<key alias="licenseConfiguredNotificationMessage">Umbraco Forms is geconfigureerd voor gebruik op deze website.</key>
 		<key alias="insufficientPermissionsError">Onvoldoende machtigingen</key>
 		<key alias="insufficientPermissionsMessage">Je bent niet gemachtigd om formulieren te maken en te beheren.</key>
 		<key alias="insufficientPermissionsUpgradeMessage">Alleen admins hebben de mogelijkheid om Umbraco Forms te upgraden..</key>
