@@ -127,7 +127,7 @@
 	</area>
 	<area alias="formEdit">
 		<key alias="addQuestion">Vraag toevoegen</key>
-		<key alias="groupIsEmpty">Group is empty</key>
+		<key alias="groupIsEmpty">Groep is leeg</key>
 		<key alias="dropQuestionHere">Drop a question here...</key>
 		<key alias="letGo">Yaay.. let go</key>
 		<key alias="pageIsEmpty">Pagina is leeg</key>
